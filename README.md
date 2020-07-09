@@ -1,1 +1,1 @@
-## Redirects to [paulchoi.dev](paulchoi.dev)
+## Redirects to [paulchoi.dev](https://paulchoi.dev)
